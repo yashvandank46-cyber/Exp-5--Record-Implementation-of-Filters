@@ -1,8 +1,7 @@
 # Exp-5--Record-Implementation-of-Filters
-##  Developed By
-
-- **Name:** YASHVANDAN K
-- **Register No:** 212225100060
+##  Developed By:
+## Name: YASHVANDAN K
+## REG no: 212225100060
 
 ## Aim
 
